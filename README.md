@@ -20,7 +20,7 @@ The original repository can be found under
 
 4. Open the Jupyter notebook "dog_app.ipynb" and go through each section.
 
-[image1]: ./images/dog_classification.png "Example for classification"
+[image1]: ./images/dog_classification.PNG "Example for classification"
 
 
 ![Sample Output][image1]
